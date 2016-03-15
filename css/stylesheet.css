@@ -1,0 +1,120 @@
+@import url(https://fonts.googleapis.com/css?family=Arapey:400,400italic);
+body {
+    background-color: /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffff99+0,9999cc+100 */
+    background: #ffff99; /* Old browsers */
+    background: -moz-linear-gradient(top,  #ffff99 0%, #9999cc 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(top,  #ffff99 0%,#9999cc 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom,  #ffff99 0%,#9999cc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffff99', endColorstr='#9999cc',GradientType=0 ); /* IE6-9 */
+;
+    width: 100%;
+    height: 3000px;
+    margin: 0;
+    padding: 0;
+}
+/* navigation begynder */
+#title {
+   margin-left: 10%;
+
+}
+
+nav {
+    width: 76%;
+    height: 110px;
+    margin-left: 10%;
+}
+
+.box {
+    display: block;
+    width: 15%;
+    height: 90px;
+    background-color: #006666;
+    float: left;
+    margin: 10px 15px 10px auto;
+    }
+.box:last-child{
+    margin-left: 0;
+}
+.menu {
+    color: #ffffff;
+    font-family: 'Arapey', serif;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+/* navigation slutter her */
+#hus-foto {
+    width: 70%
+    height: 700px;
+    margin-left: 10%;
+}
+
+#textbox {
+    width: 75%;
+    height: 320px;
+    margin-left: 10%;
+}
+.box-one {
+    width: 28% ;
+    height: 100%;
+    background-color: #ffff99;
+    float: left;
+
+}
+.box-two {
+    width: 67%;
+    height: 100%;
+    background-color: #ffff99;
+    float: left;
+    margin-left: 1%;
+}
+#text-one {
+    margin: 30px 50px auto;
+    font-family: Arial;
+    font-size: 15px;
+    color: dimgray;
+    line-height: 1.7;
+}
+#text-two {
+    margin: 60px 50px auto;
+    font-family: Arial;
+    font-size: 15px;
+    color: dimgray;
+    line-height: 1.7;
+}
+#fotos {
+    width: 76%;
+    height: 170px;
+    margin-left: 10%;
+    margin-top: 10px;
+    float: left;
+    padding: 0;
+}
+#footer {
+    width: 76%;
+    height: 170px;
+    margin-top: 10px;
+    margin-left: 10%;
+
+}
+#foot-box {
+    width: 31%;
+    height: 100%;
+    float: left;
+}
+#foto-map {
+    width: 10%;
+    height: 10%;
+}
+#foto-prisgaranti {
+    width: 5%;
+    height: 5%;
+    position: relative;
+    top: -420px;
+    left: 380px;
+}
+#text-map {
+    position: relative;
+
+
+}
